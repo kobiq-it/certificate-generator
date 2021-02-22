@@ -1,2 +1,3 @@
 records/
-data.csv
+*.csv
+*.zip
